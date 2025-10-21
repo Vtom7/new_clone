@@ -1,0 +1,26 @@
+/* style.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+.hero {
+  background: #4a90e2;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.cta-button {
+  background: white;
+  color: #4a90e2;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#contact {
+  padding: 50px 20px;
+  text-align: center;
+}
